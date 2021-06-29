@@ -2,13 +2,15 @@
 ## General info
 Storyline name:
 
+Short description:
+
 Involved Characters:
 
 Timeline:
 
-PlayerTimeline:
-
 Place:
+
+Scripts:
 
 Storyline:
 
