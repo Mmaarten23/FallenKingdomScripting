@@ -1,6 +1,8 @@
 ## General info
 First Name: Mmaarten
+
 Last Name: of Iverus
+
 Nicknames: Mmaarten
 
 Age: 21
